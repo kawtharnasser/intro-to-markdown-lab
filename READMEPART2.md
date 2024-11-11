@@ -1,7 +1,5 @@
 # Basic HTML5 Template: Use This HTML Boilerplate as a Starter for Any Web Dev Project
 
-<img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1720024831047/d6b599ba-839f-4225-bd44-fec4de57e39f.png" alt="Jessica Wilkins" width="40"/> [Jessica Wilkins](https://www.freecodecamp.org/news/author/devAndMusician/)
-
 ![start image](https://www.freecodecamp.org/news/content/images/size/w600/2021/07/jackson-so-_t-l5FFH8VA-unsplash.jpg)
 
 When you are building a new website, it is important to have a good starting foundation. In this article, I will explain what an HTML 5 boilerplate is and how to create a basic template to use in your projects.
